@@ -1,5 +1,7 @@
 ## console.log("!!!Hola mundo👋")
 
+Soy Miguel Linares, desarrollador Fullstack y me encuentro en el mundo Tech desde hace 3 años y estoy enganchado con este mundo, aprendiendo de tecnologías como C++, PHP, JavaScript, especializado en el Back-end. Mi objetivo es seguir adquiriendo conocimiento de otros lenguajes como Python y perfeccionar aquellos que ya poseo
+
 <!--
 **MiguelLinares01/MiguelLinares01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
